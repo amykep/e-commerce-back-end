@@ -31,20 +31,21 @@ Add a .env file to the root folder that contain the following
 ```
 DB_NAME='ecommerce_db'
 DB_USER='new_user'
-DB_PW='XXXXXX'
+DB_PW='XXXXXX'.
+
 
 ## Screen Shots of the HTML
-Create Schema and Seed Data</br>
+Create Schema and Seed Data
 ![Screenshot of note adding](./images/App-Initiation.gif)</br>
-GET routes - Return all Categories, Products and Tags</br>
+GET routes - Return all Categories, Products and Tags
 ![Screenshot of note viewing](./images/findAll.gif)</br>
-GET routes - Return single Category, Product or Tag</br>
+GET routes - Return single Category, Product or Tag
 ![Screenshot of note deleting](./images/findOne.gif)</br>
-Categories routes - Post, Put and Delete</br>
+Categories routes - Post, Put and Delete
 ![Screenshot of note deleting](./images/category-functions.gif)</br>
-Products routes - Post, Put and Delete</br>
+Products routes - Post, Put and Delete
 ![Screenshot of note deleting](./images/products_Functions.gif)</br>
-Tags routes - Post, Put and Delete</br>
+Tags routes - Post, Put and Delete
 ![Screenshot of note deleting](./images/tags_Functions.gif)</br>
 
 ## Demonstration Videos
