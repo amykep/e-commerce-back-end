@@ -34,15 +34,20 @@ DB_USER='new_user'
 DB_PW='XXXXXX'
 
 ## Screen Shots of the HTML
-Adding Notes
-![Screenshot of note adding](./images/note-taker1.png)
-Retrieving Notes
-![Screenshot of note viewing](./images/note-taker2.png)
-Deleting Notes
-![Screenshot of note deleting](./images/note-taker3.png)
+Create Schema and Seed Data</br>
+![Screenshot of note adding](./images/App-Initiation.gif)</br>
+GET routes - Return all Categories, Products and Tags</br>
+![Screenshot of note viewing](./images/findAll.gif)</br>
+GET routes - Return single Category, Product or Tag</br>
+![Screenshot of note deleting](./images/findOne.gif)</br>
+Categories routes - Post, Put and Delete</br>
+![Screenshot of note deleting](./images/category-functions.gif)</br>
+Products routes - Post, Put and Delete</br>
+![Screenshot of note deleting](./images/products_Functions.gif)</br>
+Tags routes - Post, Put and Delete</br>
+![Screenshot of note deleting](./images/tags_Functions.gif)</br>
 
-
-## Demonstration Video
+## Demonstration Videos
 https://drive.google.com/drive/folders/1LUoVF3PZhso4GpKp_ERdaL-gAf1d10hQ?usp=sharing
 
 
