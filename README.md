@@ -27,10 +27,10 @@ HTML, CSS, JavaScript, Node.js, Express.js, Npm Modules, dotenv Package, Sequeli
 The application require the use of node.js, Express.js, Sequelize & MySQL2 for running it.
 
 ## To Run the Application
-Add a .env file to the root folder that contain the following
-DB_NAME='ecommerce_db'
-DB_USER='new_user'
-DB_PW='XXXXXX'.
+Add a .env file to the root folder that contain the following:</br>
+DB_NAME='ecommerce_db'</br>
+DB_USER='new_user'</br>
+DB_PW='XXXXXX'</br>
 
 
 ## Screen Shots of the HTML
