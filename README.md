@@ -33,7 +33,7 @@ DB_USER='new_user'</br>
 DB_PW='XXXXXX'</br>
 
 
-## Screen Shots of the HTML
+## Walkthrough Videos
 Create Schema and Seed Data
 ![Screenshot of note adding](./images/App-Initiation.gif)</br>
 GET routes - Return all Categories, Products and Tags
