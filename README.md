@@ -28,7 +28,6 @@ The application require the use of node.js, Express.js, Sequelize & MySQL2 for r
 
 ## To Run the Application
 Add a .env file to the root folder that contain the following
-```
 DB_NAME='ecommerce_db'
 DB_USER='new_user'
 DB_PW='XXXXXX'.
