@@ -42,8 +42,9 @@ Deleting Notes
 ![Screenshot of note deleting](./images/note-taker3.png)
 
 
-## Deployed application link
-https://secure-journey-45023.herokuapp.com
+## Demonstration Video
+https://drive.google.com/drive/folders/1LUoVF3PZhso4GpKp_ERdaL-gAf1d10hQ?usp=sharing
+
 
 ## Github Page: 
 https://github.com/amykep/e-commerce-back-end
